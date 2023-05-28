@@ -1,1 +1,1 @@
-# UndergraduatedThesis
+# Undergraduate-Thesis
