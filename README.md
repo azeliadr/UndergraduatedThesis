@@ -8,7 +8,7 @@
 _**Abstract**_: 
 
 ## Methodology
-<a href="https://github.com/azeliadr/UndergraduatedThesis/blob/9ed5c42c5b7fd5f5f4013ecc3f6842ddb247c625/DIAGRAM%20ALIR.drawio%20(2).png" align="center" width="95"
+![logo](https://github.com/azeliadr/UndergraduatedThesis/blob/9ed5c42c5b7fd5f5f4013ecc3f6842ddb247c625/DIAGRAM%20ALIR.drawio%20(2).png) <p align="center">
 
 
 
