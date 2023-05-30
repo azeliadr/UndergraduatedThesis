@@ -8,9 +8,9 @@
 _**Abstract**_: 
 
 ## Methodology
-![logo](https://github.com/azeliadr/UndergraduatedThesis/blob/9ed5c42c5b7fd5f5f4013ecc3f6842ddb247c625/DIAGRAM%20ALIR.drawio%20(2).png) <p align="center">
-
-
+<img src="https://github.com/azeliadr/UndergraduatedThesis/blob/9ed5c42c5b7fd5f5f4013ecc3f6842ddb247c625/DIAGRAM%20ALIR.drawio%20(2).png" align="center" width="100%" />  
+<p align="center"> Gambar 1. Diagram Alir Penelitian
+ </p>
 
 ## References
 
