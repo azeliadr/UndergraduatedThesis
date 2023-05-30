@@ -4,7 +4,7 @@
 **Azelia Dwi Rahmawati**
 <br /> _Department of Forest Management, Faculty of Forest and Environment, IPB University_
 
-## Research Overview
+## Research Overview <img src="https://github.com/azeliadr/UndergraduatedThesis/blob/e63627426f1a80cd39aff74285cfc89b616b0d32/GAMBAR/LOKASI%20PENELITIAN%20FIX.png" align="right" width="50%" />
 _**Abstract**_: 
 
 ## Methodology
