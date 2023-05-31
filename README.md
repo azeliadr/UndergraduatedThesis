@@ -21,6 +21,8 @@ Keywords: Occupational Safety and Health (OSH), Work Accident, Remote Sensing.
  * Type of Soil
  
  * Vegetation Density
+ - Normalized Difference Vegetation Index (NDVI)
+ - Rouse jr JW, Haas RH, Schell JA,  Deering DW. 1974. Monitoring vegetation systems in the Great Plains with ERTS. NASA Special Publication. 351(1): 309-317.
  ```
    var ndvi = sentinel_2.expression('(NIR - Red) / (NIR + Red)', {
   'NIR': sentinel_2.select('B8'),
