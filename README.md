@@ -10,7 +10,7 @@ Keywords: Occupational Safety and Health (OSH), Work Accident, Remote Sensing.
 
 ## Methodology
 <img src="https://github.com/azeliadr/UndergraduatedThesis/blob/8166360d35055d6d62e8f5c29e3cbc554fe6af7d/GAMBAR/DIAGRAM%20ALIR.drawio%20(2).png" align="center" width="100%" />  
-<p align="center"> Gambar 1. Research Flow Chart
+<p align="center"> Figure 1. Research Flow Chart
  
  * Slope
  
